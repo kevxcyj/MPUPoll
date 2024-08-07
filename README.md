@@ -1,21 +1,16 @@
 # MPUPoll - Atlas Hack Sprint Project
 
+## Table of Contents
+- [Home]
+- [About]
+- [Arguments]
+- [Quiz]
+- [Vote]
+
+## Introduction
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Installation
 
 
 ## Authors and Acknowledgements
