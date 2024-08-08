@@ -12,7 +12,11 @@ body {
     text-align: center;
 }
 
-#vote-button {
+.button-group {
+    margin-bottom: 20px;
+}
+
+button {
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
@@ -27,11 +31,11 @@ body {
     transition: background-color 0.3s ease;
 }
 
-#vote-button:hover {
+button:hover {
     background-color: #45a049;
 }
 
-.tally {
+.tally p {
     font-size: 18px;
-    margin-top: 10px;
 }
+
