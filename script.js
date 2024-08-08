@@ -1,11 +1,19 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-    const voteButton = document.getElementById('vote-button');
-    const voteCount = document.getElementById('vote-count');
+    const voteButton1 = document.getElementById('vote-button1');
+    const voteButton2 = document.getElementById('vote-button2');
+    const voteCount1 = document.getElementById('vote-count1');
+    const voteCount2 = document.getElementById('vote-count2');
     
-    let count = 0;
+    let count1 = 0;
+    let count2 = 0;
     
-    voteButton.addEventListener('click', () => {
-        count++;
-        voteCount.textContent = count;
+    voteButton1.addEventListener('click', () => {
+        count1++;
+        voteCount1.textContent = count1;
+    });
+    
+    voteButton2.addEventListener('click', () => {
+        count2++;
+        voteCount2.textContent = count2;
     });
 });
