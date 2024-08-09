@@ -15,5 +15,5 @@
 
 ## Authors and Acknowledgements
 - Kevin Cyrus Jr - [Github](https://github.com/kevxcyj)
-- Suntha Lucas - [Github](?)
+- Suntha Lucas - [Github](https://github.com/Sunnilu)
 - LJ Thao - [Github](https://github.com/LJThao) 
