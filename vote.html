@@ -3,20 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Voting Buttons</title>
-    <link rel="stylesheet" href="styles/vote-styles.css">
+    <title>Vote</title>
+    <link rel="stylesheet" href="styles/index-styles.css">
 </head>
 <body>
-    <div class="vote-container">
-        <div class="button-group">
-            <button id="vote-button1">Vote for Person 1</button>
-            <button id="vote-button2">Vote for Person 2</button>
+    <header>
+        <h1>Vote</h1>
+    </header>
+    <main>
+        <div class="button-container">
+            <button><a href="index.html">Home</a></button>
+            <button><a href="about.html">About</a></button>
+            <button><a href="arguments.html">Arguments</a></button>
+            <button><a href="quiz.html">Quiz</a></button>
+            <button><a href="vote.html">Vote</a></button>
         </div>
+        <div class="vote-container">
+            <div class="button-group">
+                <button id="vote-button1">Vote for Person 1</button>
+                <button id="vote-button2">Vote for Person 2</button>
+            </div>
         <div class="tally">
-            <p>Votes for Person 1: <span id="vote-count1">0</span></p>
-            <p>Votes for Person 2: <span id="vote-count2">0</span></p>
+                <p>Votes for Person 1: <span id="vote-count1">0</span></p>
+                <p>Votes for Person 2: <span id="vote-count2">0</span></p>
+            </div>
         </div>
-    </div>
-    <script src="scripts/script.js"></script>
+        <script src="scripts/script.js"></script>
+    </main>
 </body>
 </html>
