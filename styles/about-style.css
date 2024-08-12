@@ -51,6 +51,20 @@ button:hover {
     background-color: #666;
 }
 
+/* ICON */
+
+.icon-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 10px;
+}
+
+.top-left-icon {
+  width: 50px; 
+  height: auto; 
+}
+
 /* FOOTER */
 
 footer {
