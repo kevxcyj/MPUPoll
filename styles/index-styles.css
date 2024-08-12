@@ -52,4 +52,30 @@ button:hover {
 }
 
 /* Exsiting styles */
-.description-section
+.description-section p {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 200px;
+}
+
+.color-squares {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 200px;
+    margin-bottom: 20px;
+}
+
+.square {
+    width: 500px;
+    height: 500px;
+    border-radius: 30%;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.yellow {
+    background-color: yellow;
+}
