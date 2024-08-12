@@ -17,13 +17,14 @@ body {
 
 /* Center the header title */
 header {
+    font-family: 'Great Vibes', cursive;
     text-align: center;
     margin: 20px 0;
 }
 
 /* Style the header title */
 header h1 {
-    font-size: 24px;
+    font-size: 40px;
 }
 
 /* Style the button container */
@@ -37,8 +38,8 @@ header h1 {
 
 /* Style the buttons */
 button {
-    background-color: #444;
-    color: white;
+    background-color: white;
+    color: black;
     border: none;
     padding: 10px 20px;
     margin: 0 5px; /* Even spacing between buttons */
@@ -74,8 +75,16 @@ button:hover {
 
 .purple {
     background-color: purple;
+    background-image: url('../images/purpledonket-no-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 }
 
 .yellow {
     background-color: yellow;
+    background-image: url('../images/yellowchick-no-bg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 }
