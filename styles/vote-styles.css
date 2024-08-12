@@ -28,9 +28,10 @@ header h1 {
 /* Button container and styles */
 .button-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    margin: 20px 0;
+    margin: 0 auto;
+    max-width: 800px;
 }
 
 /* styles for navigation buttons in vote-styles.css */
@@ -57,3 +58,4 @@ button:hover {
     text-align: center;
     margin-top: 400px;
 }
+
