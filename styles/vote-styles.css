@@ -38,3 +38,24 @@ button:hover {
 .tally p {
     font-size: 18px;
 }
+
+.centered-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 60px); /* Adjust based on your header height */
+}
+
+.button-group {
+    margin-bottom: 20px;
+}
+
+/* Style for the buttons */
+#vote-button1 {
+    background-color: purple;
+}
+
+#vote-button2 {
+    background-color: yellow;
+}
