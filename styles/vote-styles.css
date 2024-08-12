@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: white;
     margin: 0;
 }
 
@@ -17,7 +17,7 @@ body {
 }
 
 button {
-    background-color: #4CAF50; /* Green */
+    background-color: Green; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -39,23 +39,3 @@ button:hover {
     font-size: 18px;
 }
 
-.centered-content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: calc(100vh - 60px); /* Adjust based on your header height */
-}
-
-.button-group {
-    margin-bottom: 20px;
-}
-
-/* Style for the buttons */
-#vote-button1 {
-    background-color: purple;
-}
-
-#vote-button2 {
-    background-color: yellow;
-}
