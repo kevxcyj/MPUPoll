@@ -79,8 +79,8 @@ button:hover {
     justify-content: center;
     flex-direction: row;
     gap: 20px;
-    margin-top: 30px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .square {
