@@ -117,6 +117,8 @@ footer>p {
 
 .image-text-container {
     background-color: white; /* White background behind the text */
+    border-radius: 10%;
+    margin-top: 100px;
     color: black; /* Text color set to black */
     padding: 10px; /* Padding inside the box for spacing */
     display: inline-block; /* Allows setting width */
