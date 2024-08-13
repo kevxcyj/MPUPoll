@@ -17,12 +17,12 @@ Join us in this Hacksprint to cast your vote and decide who will lead the Enchan
 - 
 
 ## Installation
-Step 1:
+Step 1: Clone the MPUPoll Repository
 ```
 $ git clone https://github.com/kevxcyj/MPUPoll
 ```
 Step 2:
-Next, go to the MPUPoll directory:
+Go to the MPUPoll directory:
 ```
 $ cd MPUPoll
 ```
