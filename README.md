@@ -1,20 +1,36 @@
 # MPUPoll - Atlas Hack Sprint Project
+In this Hacksprint project, we're diving into the magical world of fairytales, where the time has come to elect a new head of the Magical Parliament. Two quirky candidates are vying for the role: the Purple Donkey and the Yellow Chick.
 
+The Purple Donkey—mysterious with his violet coat—promises health benefits from eggs, warns of sunrise dangers, and campaigns under the intriguing slogan, "For the Truth Unspoken."
+
+The Yellow Chick, bright and cheerful, claims the sky is falling, mistrusts sunsets, and vows to stop the sale of eggs, all under the banner of "Partial Truth and Nothing But the Partial Truth."
+
+Join us in this Hacksprint to cast your vote and decide who will lead the Enchanted Realm into its next chapter!
 ## Table of Contents
-- [Home]
-- [About]
-- [Arguments]
-- [Quiz]
-- [Vote]
+1. [Home](https://github.com/kevxcyj/MPUPoll/blob/main/index.html)
+2. [About](https://github.com/kevxcyj/MPUPoll/blob/main/about.html)
+3. [Arguments](https://github.com/kevxcyj/MPUPoll/blob/main/arguments.html)
+4. [Quiz](https://github.com/kevxcyj/MPUPoll/blob/main/quiz.html)
+5. [Vote](https://github.com/kevxcyj/MPUPoll/blob/main/vote.html)
 
-## Introduction
+## Link
 - 
 
 ## Installation
-- To view the website, you can fork the repository and use the Live Server extension by right-clicking on the index.html file.
-- Then, access the website locally at "http://localhost:5500/".
-
-*** Alternatively, we can host it online and provide a web link for easier access. ***
+Step 1:
+```
+$ git clone https://github.com/kevxcyj/MPUPoll
+```
+Step 2:
+Next, go to the MPUPoll directory:
+```
+$ cd MPUPoll
+```
+Step 3:
+Open "Index.html" file:
+```
+Use the Live Server extension to access the website locally at "http://localhost:5500/"
+```
 
 ## Authors and Acknowledgements
 - Kevin Cyrus Jr - [Github](https://github.com/kevxcyj)
