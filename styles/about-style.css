@@ -131,3 +131,26 @@ footer>p {
 .text-box p {
     color: black; /* Ensures text color is black */
 }
+
+.pd-desc {
+  background-color: purple;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: inline-block;
+  width: auto;
+  margin-bottom: 100px;
+}
+
+.yc-desc {
+  background-color: yellow;
+  color: black;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: inline-block;
+  width: auto;
+  margin-bottom: 100px;
+}
