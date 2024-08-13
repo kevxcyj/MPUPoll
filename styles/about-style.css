@@ -148,9 +148,14 @@ footer>p {
   color: black;
   padding-left: 40px;
   padding-right: 40px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 30px;
+  padding-bottom: px;
   display: inline-block;
   width: auto;
   margin-bottom: 100px;
+}
+
+.yc-desc img {
+  float: right;
+  margin-right: 40px;
 }
