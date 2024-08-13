@@ -14,7 +14,7 @@ Join us in this Hacksprint to cast your vote and decide who will lead the Enchan
 5. [Vote](https://github.com/kevxcyj/MPUPoll/blob/main/vote.html)
 
 ## Link
-- 
+- https://kevxcyj.github.io/MPUPoll/
 
 ## Installation
 Step 1: Clone the MPUPoll Repository
