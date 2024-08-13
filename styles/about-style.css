@@ -19,13 +19,14 @@ body {
 
 /* Center the header title */
 header {
+    font-family: 'Great Vibes', cursive;
     text-align: center;
     margin: 20px 0;
 }
 
 /* Style the header title */
 header h1 {
-    font-size: 24px;
+    font-size: 40px;
 }
 
 /* Style the button container */
@@ -119,6 +120,7 @@ footer>p {
     background-color: white; /* White background behind the text */
     border-radius: 10%;
     margin-top: 100px;
+    margin-bottom: 100px;
     color: black; /* Text color set to black */
     padding: 10px; /* Padding inside the box for spacing */
     display: inline-block; /* Allows setting width */
