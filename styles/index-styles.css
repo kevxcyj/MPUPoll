@@ -139,3 +139,11 @@ footer address a:hover {
     opacity: 1;
     text-decoration: underline;
 }
+
+.disclamer {
+    color: red;
+}
+
+.description-section { 
+    margin: 10%;
+}
