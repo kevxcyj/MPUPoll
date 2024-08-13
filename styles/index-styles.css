@@ -88,3 +88,54 @@ button:hover {
     background-position: center;
     background-size: contain;
 }
+/* ICON */
+
+.icon-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+}
+  
+.top-left-icon {
+    width: 50px; 
+    height: auto; 
+}
+
+/* FOOTER */
+
+footer {
+    background: white;
+    bottom: 0;
+    color: black;
+    display: flex;
+    font-size: smaller;
+    padding: 0.6rem;
+    position: fixed;
+    width: 100%;
+}
+footer>p {
+    flex: 1;
+    margin: 0;
+    padding: 0;
+}
+footer address {
+    text-align: right;
+    flex: 1;
+    margin-right: 1rem;
+}
+footer address a,
+footer address a:visited {
+    color: black;
+    opacity: 0.6;
+    padding: 0.3rem;
+    text-decoration: none;
+}
+footer address i {
+    font-size: 1rem;
+}
+
+footer address a:hover {
+    opacity: 1;
+    text-decoration: underline;
+}
