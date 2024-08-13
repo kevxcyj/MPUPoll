@@ -6,6 +6,8 @@ body, h1, button {
 }
 
 /* Apply a black background to the entire page */
+
+
 body {
     background-color: black;
     color: white;
@@ -14,6 +16,7 @@ body {
     flex-direction: column;
     height: 100vh;
 }
+
 
 /* Center the header title */
 header {
