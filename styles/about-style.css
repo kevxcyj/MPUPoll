@@ -11,6 +11,7 @@ body {
     color: white;
     font-family: Arial, sans-serif;
     display: flex;
+    font-size: 30px;
     flex-direction: column;
     height: 100vh;
     text-align: center;
@@ -106,3 +107,23 @@ footer>p {
     opacity: 1;
     text-decoration: underline;
   }
+
+
+.float-left {
+    float: left;
+    margin-right: 20px; /* Adjust spacing between the image and text */
+}
+
+
+.image-text-container {
+    background-color: white; /* White background behind the text */
+    color: black; /* Text color set to black */
+    padding: 10px; /* Padding inside the box for spacing */
+    display: inline-block; /* Allows setting width */
+    width: calc(100% - 340px); /* Adjust based on image width and margin */
+    box-shadow: 0 2px 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds subtle shadow for depth */
+}
+
+.text-box p {
+    color: black; /* Ensures text color is black */
+}
