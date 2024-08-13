@@ -27,9 +27,9 @@ Next, go to the MPUPoll directory:
 $ cd MPUPoll
 ```
 Step 3:
-Open "Index.html" file:
+Install the Live Server extension to view the website and open the index.html file:
 ```
-Use the Live Server extension to access the website locally at "http://localhost:5500/"
+Access locally at port 5500: "http://localhost:5500/"
 ```
 
 ## Authors and Acknowledgements
