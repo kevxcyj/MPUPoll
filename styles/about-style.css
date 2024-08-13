@@ -42,7 +42,7 @@ button {
     color: black;
     border: none;
     padding: 10px 20px;
-    margin: 0 40px; /* Even spacing between buttons */
+    margin: 0 5px; /* Even spacing between buttons */
     cursor: pointer;
     font-size: 16px;
     border-radius: 5px;
@@ -190,3 +190,4 @@ h2 {
   padding-left: 10%;
   padding-right: 10%;
 }
+
