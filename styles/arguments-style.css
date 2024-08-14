@@ -105,4 +105,78 @@ footer address a:hover {
 
 .flag-photo {
     margin-top: 5%;
+    align-items: center;
+    justify-content: center;
 }
+
+.flag-intro {
+    background-color: white; /* White background behind the text */
+    border-radius: 10%;
+    margin-top: 100px;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 8%;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+    color: black; /* Text color set to black */
+    padding: 10px; /* Padding inside the box for spacing */
+    display: inline-block; /* Allows setting width */
+    width: calc(100% - 340px); /* Adjust based on image width and margin */
+    box-shadow: 0 2px 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds subtle shadow for depth */
+}
+
+.questions-intro {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.debate-questions {
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 30px;
+    margin-left: 10%;
+    font-size: 25px;
+}
+
+.purple-answers {
+    text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: purple;
+    font-size: 25px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}   
+
+.yellow-answers {
+    background-color: yellow;
+    color: black;
+    font-size: 25px;
+    margin-right: 10%;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+
+.answers-pod {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20%;
+}
+
+.answers-b {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 300%;
+}
+
+.debate-questions p {
+ 
