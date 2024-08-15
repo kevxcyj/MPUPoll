@@ -10,8 +10,7 @@ Join us in this Hacksprint to cast your vote and decide who will lead the Enchan
 1. [Home](https://github.com/kevxcyj/MPUPoll/blob/main/index.html)
 2. [About](https://github.com/kevxcyj/MPUPoll/blob/main/about.html)
 3. [Arguments](https://github.com/kevxcyj/MPUPoll/blob/main/arguments.html)
-4. [Quiz](https://github.com/kevxcyj/MPUPoll/blob/main/quiz.html)
-5. [Vote](https://github.com/kevxcyj/MPUPoll/blob/main/vote.html)
+4. [Vote](https://github.com/kevxcyj/MPUPoll/blob/main/vote.html)
 
 ## Link
 - https://kevxcyj.github.io/MPUPoll/
